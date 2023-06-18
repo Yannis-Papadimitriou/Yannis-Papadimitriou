@@ -1,4 +1,4 @@
-# h1 Yannis Papadimitriou
+# Yannis Papadimitriou
 
 - 👋 Hi, I’m @Yannis Papadimitriou
 - 👀 I’m interested in ...
